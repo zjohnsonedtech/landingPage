@@ -17,9 +17,15 @@ li {
 	display: inline;
 }
 
-li a.active {
+li a {
 	text-decoration: none; 
 	list-style: none;
 	display: inline;
+	padding: 5px;
+	color: black;
 	background-color: #66ff66;
+}
+
+li a:hover {
+	font-weight: bold; 
 }

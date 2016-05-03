@@ -24,3 +24,8 @@ div li {
 	color: black;
 }
 
+div li a:hover {
+	background-color: #555;
+    color: white;
+}
+

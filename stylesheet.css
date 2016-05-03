@@ -15,9 +15,6 @@ p {
 
 li {
 	display: inline;
-}
-
-li a {
 	text-decoration: none; 
 	list-style: none;
 	display: inline;
@@ -26,6 +23,6 @@ li a {
 	background-color: #66ff66;
 }
 
-li a:hover {
+li :hover {
 	font-weight: bold; 
 }

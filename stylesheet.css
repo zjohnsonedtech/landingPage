@@ -14,7 +14,7 @@ p {
 }
 
 div li {
-	float: center;
+	text-align: center;
 	background-color: #66ff66;
 	width: 100%; 
 	display: inline;

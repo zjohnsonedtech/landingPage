@@ -3,7 +3,7 @@ h1 {
 	text-align: center;
 }
 
-div {
+h2 {
 	font-style: italic;
 	text-align: center; 
 }
@@ -16,17 +16,11 @@ p {
 div li {
 	background-color: #66ff66;
 	width: 100%; 
-}
-
-li {
 	display: inline;
 	text-decoration: none; 
 	list-style: none;
 	display: inline;
 	padding: 5px;
 	color: black;
-	}
-
-.active {
-	font-weight: bold; 
 }
+

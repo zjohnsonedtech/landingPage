@@ -1,1 +1,11 @@
+head {
+	font-size: 2em;
+}
 
+body {
+	font-size: .5em;
+}
+
+ul {
+	text-decoration: none; 
+}

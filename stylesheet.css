@@ -9,17 +9,17 @@ div {
 }
 
 p {
-	font-size: .5em;
-	float: left;
+	font-size: 1.5em;
+	text-align: center;
 }
 
-ul {
+li {
+	display: inline;
+}
+
+.active {
 	text-decoration: none; 
 	list-style: none;
 	display: inline;
 	background-color: #66ff66;
-}
-
-li a:hover {
-	background-color: #00cc00;
 }

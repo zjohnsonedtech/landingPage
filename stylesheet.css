@@ -13,8 +13,9 @@ p {
 	text-align: center;
 }
 
-div {
+div li {
 	background-color: #66ff66;
+	width: 100%; 
 }
 
 li {
@@ -26,6 +27,6 @@ li {
 	color: black;
 	}
 
-li:hover {
+.active {
 	font-weight: bold; 
 }

@@ -13,6 +13,10 @@ p {
 	text-align: center;
 }
 
+div {
+	background-color: #66ff66;
+}
+
 li {
 	display: inline;
 	text-decoration: none; 
@@ -20,9 +24,8 @@ li {
 	display: inline;
 	padding: 5px;
 	color: black;
-	background-color: #66ff66;
-}
+	}
 
-li :hover {
+li:hover {
 	font-weight: bold; 
 }

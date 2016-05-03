@@ -1,11 +1,25 @@
-head {
+h1 {
 	font-size: 2em;
+	text-align: center;
 }
 
-body {
+div {
+	font-style: italic;
+	text-align: center; 
+}
+
+p {
 	font-size: .5em;
+	float: left;
 }
 
 ul {
 	text-decoration: none; 
+	list-style: none;
+	display: inline;
+	background-color: #66ff66;
+}
+
+li a:hover {
+	background-color: #00cc00;
 }

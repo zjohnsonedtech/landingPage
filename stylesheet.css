@@ -1,3 +1,7 @@
+#header {
+	background-image: url(https://flic.kr/p/9Bk9P6);
+}
+
 h1 {
 	font-size: 2em;
 	text-align: center;
@@ -13,19 +17,18 @@ p {
 	text-align: center;
 }
 
-div li {
+#nav {
 	text-align: center;
+	text-decoration: none;
+	border-style: ridge;
 	background-color: #66ff66;
 	width: 100%; 
 	display: inline;
 	list-style: none;
-	display: inline;
+	display: inline-block;
 	padding: 5px;
 	color: black;
-}
-
-div li a {
-	text-decoration: none;
+	
 }
 
 div li a:hover {

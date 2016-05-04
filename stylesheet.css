@@ -1,7 +1,8 @@
 #header {
-	background-image: url(headerbackground.jpg);
+	background-image: url(headerbackground.jpg) no-repeat center top;
 	width: 100%;
 	height: 500px;
+	
 }
 
 img {
@@ -12,11 +13,14 @@ img {
 h1 {
 	font-size: 2em;
 	text-align: center;
+	color: white;
 }
 
 h2 {
 	font-style: italic;
 	text-align: center; 
+	color: white;
+	position: bottom;
 }
 
 p {

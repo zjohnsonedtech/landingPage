@@ -1,9 +1,7 @@
 var main = function(){
   
-  var content = $('#wrapper');
-  
-  content.slideDown(500);
-  $('footer').fadeIn(500);
+  $('#wrapper').slideDown(500);
+  $('footer').slideDown(500);
   
 }
 

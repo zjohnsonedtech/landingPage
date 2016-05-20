@@ -1,8 +1,10 @@
 var main = function(){
   
   $('.nav).click(function(){
-    $('href').slideDown();
-  });
+  $('href').slideDown();
+  
+  
+});
   
 };
 

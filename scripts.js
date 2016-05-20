@@ -1,6 +1,6 @@
 var main = function(){
   
-  var content = $('#wrapper, footer');
+  var content = $('#wrapper');
   
   content.slideDown(500);
   

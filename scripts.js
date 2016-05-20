@@ -4,6 +4,6 @@ var main = function(){
     $('href').slideDown();
   });
   
-}
+};
 
 $(document).ready(main);

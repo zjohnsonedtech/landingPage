@@ -1,7 +1,7 @@
 var main = function(){
   
-  $('.nav').click(function(){
-  $('href').slideDown();
+  $('#wrapper').slideDown(500);
+  $('footer').slideDown(500);
   
   
 });
